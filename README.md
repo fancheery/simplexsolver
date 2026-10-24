@@ -96,8 +96,8 @@ simplexsolver/
 - 算例来源：[netlib LP](https://www.netlib.org/lp/)
 - 本实现为独立编写，未复制其他项目代码
 
+
 ## License
 
 MIT
-##进度
--2026-10-24：完成标准型单纯法
+
