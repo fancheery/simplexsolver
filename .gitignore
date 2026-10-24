@@ -1,0 +1,20 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# ---------- 数据 ----------
+data/
+*.csv
+*.parquet
+
+# ---------- 密钥 ----------
+.env
+*.key
+
+# ---------- 系统 ----------
+.DS_Store
+Thumbs.db
