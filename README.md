@@ -99,3 +99,5 @@ simplexsolver/
 ## License
 
 MIT
+##进度
+-2026-10-24：完成标准型单纯法
