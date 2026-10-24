@@ -123,7 +123,7 @@ if __name__ == "__main__":
     print("-" * 60)
 
     x, obj, status = solve_lp(
-        c=[3, 5],
+        c=[5, 3],
         A=[[3, 2], [1, 0], [0, 1]],
         b=[18, 4, 6],
         verbose=True,
